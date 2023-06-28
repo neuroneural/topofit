@@ -1,0 +1,185 @@
+#!/usr/bin/env python
+
+"""
+Script to evaluate a custom trained TopoFit model. If this code is
+useful to you, please cite:
+
+TopoFit: Rapid Reconstruction of Topologically-Correct Cortical Surfaces
+Andrew Hoopes, Juan Eugenio Iglesias, Bruce Fischl, Douglas Greve, Adrian Dalca
+Medical Imaging with Deep Learning. 2022.
+"""
+
+import os
+import argparse
+import numpy as np
+import surfa as sf
+import torch
+import topofit
+import datetime
+import nvidia_smi
+import time
+
+
+nvidia_smi.nvmlInit()
+
+deviceCount = nvidia_smi.nvmlDeviceGetCount()
+
+from csv import writer
+
+def write_time2csv(model_name, t_sec):
+    List = [model_name, t_sec]
+    with open('/data/users2/washbee/speedrun/events.csv', 'a') as f_object:
+        writer_object = writer(f_object)
+        writer_object.writerow(List)
+        f_object.close()
+
+# Helper functions
+def printModelSize(model):
+    # print(dir(model))
+    param_size = 0
+    for param in model.parameters():
+        param_size += param.nelement() * param.element_size()
+    buffer_size = 0
+    for buffer in model.buffers():
+        buffer_size += buffer.nelement() * buffer.element_size()
+    size_all_mb = (param_size + buffer_size) / 1024**2
+    print('\n\n\n\n')
+    print('model size: {:.3f}MB'.format(size_all_mb))
+    print('\n\n\n\n')
+
+
+def printSpaceUsage():
+    nvidia_smi.nvmlInit()
+    msgs = ""
+    for i in range(deviceCount):
+        handle = nvidia_smi.nvmlDeviceGetHandleByIndex(i)
+        info = nvidia_smi.nvmlDeviceGetMemoryInfo(handle)
+        #print("Device {}: {}, Memory : ({:.2f}% free): {}(total), {} (free), {} (used)".format(i, nvidia_smi.nvmlDeviceGetName(handle), 100*info.free/info.total, info.total, info.free, info.used))
+        msgs += '\n'
+        msgs += "Device {}: {}, Memory : ({:.2f}% free): {}(total), {} (free), {} (used)".format(i, nvidia_smi.nvmlDeviceGetName(handle), 100*info.free/info.total, info.total, info.free, info.used)
+        nvidia_smi.nvmlShutdown()
+    msgs+="\nMax Memory occupied by tensors: "+ str(torch.cuda.max_memory_allocated(device=None))
+    msgs+="\nMax Memory Cached: "+ str(torch.cuda.max_memory_cached(device=None))
+    msgs+="\nCurrent Memory occupied by tensors: "+ str(torch.cuda.memory_allocated(device=None))
+    msgs+="\nCurrent Memory cached occupied by tensors: "+str(torch.cuda.memory_cached(device=None))
+    msgs+="\n"
+    return msgs
+
+parser = argparse.ArgumentParser()
+parser.add_argument('--subjs', nargs='+', required=True, help='subject(s) to evaluate')
+parser.add_argument('--hemi', required=True, help='hemisphere to evaluate (`lr` or `rh`)')
+parser.add_argument('--model', required=True, help='model file (.pt) to load')
+parser.add_argument('--suffix', default='topofit', help='custom ')
+parser.add_argument('--gpu', default='0', help='GPU device ID (default is 0')
+parser.add_argument('--cpu', action='store_true', help='use CPU instead of GPU')
+parser.add_argument('--outdir', help='path to store surfaces')
+args = parser.parse_args()
+
+# sanity check on inputs
+if args.hemi not in ('lh', 'rh'):
+    print("error: hemi must be 'lh' or 'rh'")
+    exit(1)
+
+# configure device
+if args.cpu:
+    os.environ['CUDA_VISIBLE_DEVICES'] = '-1'
+    device = torch.device('cpu')
+else:
+    torch.backends.cudnn.benchmark = True
+    torch.backends.cudnn.deterministic = True
+    os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
+    device = torch.device('cuda')
+topofit.utils.set_device(device)
+
+# log for GPU utilization
+GPU_msgs = []
+
+### Set Stage
+stage = '0 - configure model'
+msgs = printSpaceUsage()
+GPU_msgs.append(stage + msgs + '\n\n\n')
+
+# configure model
+print('Configuring model')
+model = topofit.model.SurfNet().to(device)
+
+
+### Set Stage
+stage = '0 - initialize model weights'
+msgs = printSpaceUsage()
+GPU_msgs.append(stage + msgs + '\n\n\n')
+
+
+# initialize model weights
+print(f'Loading model weights from {args.model}')
+weights = torch.load(args.model, map_location=device)
+model.load_state_dict(weights['model_state_dict'])
+
+print('SurfNet')
+printModelSize(model)
+
+### Set Stage
+stage = '0 - enable evaluation mode'
+msgs = printSpaceUsage()
+GPU_msgs.append(stage + msgs + '\n\n\n')
+
+
+# enable evaluation mode
+model.train(mode=False)
+
+### Set Stage
+stage = '0 - start training loop'
+msgs = printSpaceUsage()
+GPU_msgs.append(stage + msgs + '\n\n\n')
+
+# Print messages
+for msg in GPU_msgs:
+    print(msg)
+
+# start training loop
+for subj in args.subjs:
+    a = datetime.datetime.now()
+    print('subj',subj,args.hemi)
+    # load subject data
+    data = topofit.io.load_subject_data(subj, args.hemi)
+    printSpaceUsage()
+    # predict surface
+
+    print('\n*********before with torch…. \n', printSpaceUsage())
+    with torch.no_grad():
+        input_image = data['input_image'].to(device)
+        input_vertices = data['input_vertices'].to(device)
+        print('\n*********before model() \n', printSpaceUsage())
+        result, topology = model(input_image, input_vertices)
+        print('\n*********after model() \n', printSpaceUsage())
+        vertices = result['pred_vertices'].cpu().numpy()
+        faces = topology['faces'].cpu().numpy()
+    print('\n*********after with torch…. \n', printSpaceUsage())
+    # build mesh and convert to correct space and geometry
+    surf = sf.Mesh(vertices, faces, space='vox', geometry=data['cropped_geometry'])
+    surf = surf.convert(geometry=data['input_geometry'])
+    printSpaceUsage()
+
+    # write surface
+    filename = os.path.join(subj, 'surf', f'{args.hemi}.white.{args.suffix}')
+    if os.access(os.path.join(subj,'surf'), os.W_OK) and args.outdir == None:
+        surf.save(filename)
+    else:
+        id = subj.split('/')[-1]
+        filename = f'{args.outdir}/{id}.{args.hemi}.white.{args.suffix}'
+        surf.save(filename)
+    print(f'Saved white-matter surface to {filename}')
+    b = datetime.datetime.now()
+    t_sec = (b-a).total_seconds()
+    write_time2csv('topofit', t_sec)
+    print('total seconds for one batch is {}'.format(t_sec))
+    stage = '0 - end training loop'
+    msgs = printSpaceUsage()
+    GPU_msgs.append(stage + msgs + '\n\n\n')
+
+    # Print messages
+    for msg in GPU_msgs:
+        print(msg)
+
+    #exit()
+
