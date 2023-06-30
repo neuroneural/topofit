@@ -18,17 +18,33 @@ import topofit
 import datetime
 import nvidia_smi
 import time
-
+import socket
+import pynvml
+import subprocess
 
 nvidia_smi.nvmlInit()
 
 deviceCount = nvidia_smi.nvmlDeviceGetCount()
 
+hostname = socket.gethostname()
+
 from csv import writer
 
-def write_time2csv(model_name, t_sec):
-    List = [model_name, t_sec]
-    with open('/data/users2/washbee/speedrun/events.csv', 'a') as f_object:
+# Define the Bash command you want to run
+command = "ls /data/users2/washbee/speedrun"
+
+# Run the command and capture its output
+output = subprocess.check_output(command, shell=True, universal_newlines=True)
+
+# Print the output
+print('ls ',output)
+
+
+
+def write_time2csv(model_name, t_sec, subj):
+    last_dir = os.path.basename(os.path.normpath(subj))
+    List = [model_name, t_sec, hostname, last_dir]
+    with open('/data/users2/washbee/speedrun/bm.events.csv', 'a') as f_object:
         writer_object = writer(f_object)
         writer_object.writerow(List)
         f_object.close()
@@ -49,9 +65,9 @@ def printModelSize(model):
 
 
 def printSpaceUsage():
-    nvidia_smi.nvmlInit()
     msgs = ""
     for i in range(deviceCount):
+        nvidia_smi.nvmlInit()
         handle = nvidia_smi.nvmlDeviceGetHandleByIndex(i)
         info = nvidia_smi.nvmlDeviceGetMemoryInfo(handle)
         #print("Device {}: {}, Memory : ({:.2f}% free): {}(total), {} (free), {} (used)".format(i, nvidia_smi.nvmlDeviceGetName(handle), 100*info.free/info.total, info.total, info.free, info.used))
@@ -171,7 +187,7 @@ for subj in args.subjs:
     print(f'Saved white-matter surface to {filename}')
     b = datetime.datetime.now()
     t_sec = (b-a).total_seconds()
-    write_time2csv('topofit', t_sec)
+    write_time2csv('topofit', t_sec,subj)
     print('total seconds for one batch is {}'.format(t_sec))
     stage = '0 - end training loop'
     msgs = printSpaceUsage()

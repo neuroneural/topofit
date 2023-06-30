@@ -6,19 +6,15 @@
 #eg. /topofit/preprocess ...
 #the following example requires --bind yourtopofitclone:/topofit/
 filename='/topofit/singularity/benchmarks/test_ids.csv'
-output=""
+output=()
 
 while read -r line; do 
-    if [ -z "$output" ]; then
-        output="/topofit-data/${line}"
-    else
-        output="$output /topofit-data/${line}"
-    fi
+	output+=(/topofit-data/${line})
 done < $filename
 
-echo $output
+random_index=$(( RANDOM % ${#output[@]} ))
+random_element="${output[$random_index]}"
 
-readarray -t a < /topofit/singularity/benchmarks/test_ids.csv
 echo 'array is read'
-/topofit/bm.evaluate --subjs ${output} --hemi lh --model /data/users2/washbee/speedrun/topofit/bmoutput/lh.2125.pt
+/topofit/bm.evaluate --subjs ${random_element} --hemi lh --model /data/users2/washbee/speedrun/topofit/bmoutput/lh.2125.pt
 
