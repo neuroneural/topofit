@@ -5,7 +5,7 @@
 #eg. /topofit/train ... 
 #eg. /topofit/preprocess ...
 #the following example requires --bind yourtopofitclone:/topofit/
-filename='/topofit/singularity/benchmarks/test_ids.csv'
+filename='/topofit/singularity/benchmarks/bm.csv'
 output=""
 
 while read -r line; do 

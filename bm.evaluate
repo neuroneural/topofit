@@ -41,10 +41,14 @@ print('ls ',output)
 
 
 
-def write_time2csv(model_name, t_sec, subj):
+def write_time2csv(model_name, t_sec, subj, loading = False):
+    filename = '/data/users2/washbee/speedrun/bm.events.csv'
     last_dir = os.path.basename(os.path.normpath(subj))
     List = [model_name, t_sec, hostname, last_dir]
-    with open('/data/users2/washbee/speedrun/bm.events.csv', 'a') as f_object:
+    if loading:
+        filename = '/data/users2/washbee/speedrun/bm.loading.csv'
+
+    with open(filename, 'a') as f_object:
         writer_object = writer(f_object)
         writer_object.writerow(List)
         f_object.close()
@@ -80,6 +84,9 @@ def printSpaceUsage():
     msgs+="\nCurrent Memory cached occupied by tensors: "+str(torch.cuda.memory_cached(device=None))
     msgs+="\n"
     return msgs
+
+
+a = datetime.datetime.now()
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--subjs', nargs='+', required=True, help='subject(s) to evaluate')
@@ -151,6 +158,10 @@ GPU_msgs.append(stage + msgs + '\n\n\n')
 # Print messages
 for msg in GPU_msgs:
     print(msg)
+
+b = datetime.datetime.now()
+t_sec = (b-a).total_seconds()
+write_time2csv('topofit', t_sec,"",loading=True)
 
 # start training loop
 for subj in args.subjs:
