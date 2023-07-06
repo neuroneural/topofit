@@ -30,6 +30,40 @@ hostname = socket.gethostname()
 
 from csv import writer
 
+def write_time2csv(model_name, t_sec=None, subj=None, loading=False, memory=False, percentUsed=None, total=None, free=None, used=None):
+    base_path = '/data/users2/washbee/speedrun/'
+
+    # Consolidate filename determination
+    if loading:
+        filename = 'bm.loading'
+    else:
+        filename = 'bm.events'
+        
+    if memory:
+        filename += '.memory'
+
+    filename += '.csv'
+    filename = base_path + filename
+
+    # Define initial list
+    List = [model_name, t_sec, hostname, subj]
+    
+    # If memory flag is true, append memory related info
+    if memory:
+        List = [model_name, percentUsed, total, free, used, hostname, subj]
+
+    if not os.path.exists(filename):
+        # Create the file
+        with open(filename, 'w') as file:
+            # Perform any initial operations on the file, if needed
+            print("File created.")
+
+    with open(filename, 'a') as f_object:
+        writer_object = writer(f_object)
+        writer_object.writerow(List)
+
+
+
 # Define the Bash command you want to run
 command = "ls /data/users2/washbee/speedrun"
 
@@ -41,17 +75,6 @@ print('ls ',output)
 
 
 
-def write_time2csv(model_name, t_sec, subj, loading = False):
-    filename = '/data/users2/washbee/speedrun/bm.events.csv'
-    last_dir = os.path.basename(os.path.normpath(subj))
-    List = [model_name, t_sec, hostname, last_dir]
-    if loading:
-        filename = '/data/users2/washbee/speedrun/bm.loading.csv'
-
-    with open(filename, 'a') as f_object:
-        writer_object = writer(f_object)
-        writer_object.writerow(List)
-        f_object.close()
 
 # Helper functions
 def printModelSize(model):
@@ -67,24 +90,25 @@ def printModelSize(model):
     print('model size: {:.3f}MB'.format(size_all_mb))
     print('\n\n\n\n')
 
-
-def printSpaceUsage():
+def printSpaceUsage(info_flag = False):
     msgs = ""
     for i in range(deviceCount):
         nvidia_smi.nvmlInit()
         handle = nvidia_smi.nvmlDeviceGetHandleByIndex(i)
         info = nvidia_smi.nvmlDeviceGetMemoryInfo(handle)
-        #print("Device {}: {}, Memory : ({:.2f}% free): {}(total), {} (free), {} (used)".format(i, nvidia_smi.nvmlDeviceGetName(handle), 100*info.free/info.total, info.total, info.free, info.used))
+        if info_flag:
+            return (100*info.free/info.total), info.total, info.free, info.used
+        
         msgs += '\n'
         msgs += "Device {}: {}, Memory : ({:.2f}% free): {}(total), {} (free), {} (used)".format(i, nvidia_smi.nvmlDeviceGetName(handle), 100*info.free/info.total, info.total, info.free, info.used)
         nvidia_smi.nvmlShutdown()
+
     msgs+="\nMax Memory occupied by tensors: "+ str(torch.cuda.max_memory_allocated(device=None))
     msgs+="\nMax Memory Cached: "+ str(torch.cuda.max_memory_cached(device=None))
     msgs+="\nCurrent Memory occupied by tensors: "+ str(torch.cuda.memory_allocated(device=None))
     msgs+="\nCurrent Memory cached occupied by tensors: "+str(torch.cuda.memory_cached(device=None))
     msgs+="\n"
-    return msgs
-
+    return str(msgs)
 
 a = datetime.datetime.now()
 
@@ -160,9 +184,9 @@ for msg in GPU_msgs:
     print(msg)
 
 b = datetime.datetime.now()
-t_sec = (b-a).total_seconds()
-write_time2csv('topofit', t_sec,"",loading=True)
-
+write_time2csv('topofit', t_sec = (b-a).total_seconds(), loading=True)
+percentUsed,total,free,used = printSpaceUsage(info_flag=True)
+write_time2csv('topofit',percentUsed=percentUsed, total=total, free=free, used=used,loading=True,memory=True)
 # start training loop
 for subj in args.subjs:
     a = datetime.datetime.now()
@@ -196,10 +220,13 @@ for subj in args.subjs:
         filename = f'{args.outdir}/{id}.{args.hemi}.white.{args.suffix}'
         surf.save(filename)
     print(f'Saved white-matter surface to {filename}')
+    
     b = datetime.datetime.now()
-    t_sec = (b-a).total_seconds()
-    write_time2csv('topofit', t_sec,subj)
-    print('total seconds for one batch is {}'.format(t_sec))
+    write_time2csv('topofit', t_sec = (b-a).total_seconds())
+    percentUsed,total,free,used = printSpaceUsage(info_flag=True)
+    write_time2csv('topofit',memory=True, percentUsed=percentUsed,total=total,free=free,used=used)
+    
+    #print('total seconds for one batch is {}'.format(t_sec))
     stage = '0 - end training loop'
     msgs = printSpaceUsage()
     GPU_msgs.append(stage + msgs + '\n\n\n')

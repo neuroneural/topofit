@@ -18,7 +18,7 @@
 sleep 5s
 
 module load singularity/3.10.2
-singularity exec --nv --bind /data,/data/users2/washbee/speedrun/topofit:/topofit/,/data/users2/washbee/speedrun/topofit-data:/topofit-data /data/users2/washbee/containers/speedrun/topofit_bm_sandbox/ /topofit/singularity/benchmarks/bm.evaluatelh.sh &
+singularity exec --nv --bind /data,/data/users2/washbee/speedrun/topofit:/topofit/,/data/users2/washbee/speedrun/topofit-data:/topofit-data /data/users2/washbee/containers/speedrun/topofit_sandbox_bm2/ /topofit/singularity/benchmarks/bm.evaluatelh.sh &
 
 wait
 
