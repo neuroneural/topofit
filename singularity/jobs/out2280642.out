@@ -1,0 +1,51 @@
+Configuring model
+Loading model weights from /data/users2/washbee/speedrun/topofit/output/lh.2125.pt
+SurfNet
+
+
+
+
+
+model size: 6.542MB
+
+
+
+
+
+subj /data/users2/washbee/speedrun/topofit-data/201818 lh
+
+*********before with torch…. 
+ 
+Device 0: b'NVIDIA A40', Memory : (95.48% free): 48305799168(total), 46123384832 (free), 2182414336 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+*********before model() 
+ 
+Device 0: b'NVIDIA A40', Memory : (95.46% free): 48305799168(total), 46110801920 (free), 2194997248 (used)
+Max Memory occupied by tensors: 105039872
+Max Memory Cached: 111149056
+Current Memory occupied by tensors: 105039872
+Current Memory cached occupied by tensors: 111149056
+
+
+*********after model() 
+ 
+Device 0: b'NVIDIA A40', Memory : (86.70% free): 48305799168(total), 41882943488 (free), 6422855680 (used)
+Max Memory occupied by tensors: 5955014656
+Max Memory Cached: 7646216192
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4003463168
+
+
+*********after with torch…. 
+ 
+Device 0: b'NVIDIA A40', Memory : (86.70% free): 48305799168(total), 41882943488 (free), 6422855680 (used)
+Max Memory occupied by tensors: 5955014656
+Max Memory Cached: 7646216192
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4003463168
+

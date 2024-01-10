@@ -1,0 +1,493 @@
+
+*********before with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+*********before model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.53% free): 34359738368(total), 32822460416 (free), 1537277952 (used)
+Max Memory occupied by tensors: 105039872
+Max Memory Cached: 111149056
+Current Memory occupied by tensors: 105039872
+Current Memory cached occupied by tensors: 111149056
+
+
+*********after model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+*********after with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/295146/surf/lh.white.topofit
+total seconds for one batch is 2.174079
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.21% free): 34359738368(total), 34089795584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - end training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+
+
+95584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - end training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+
+
+array is read
+Configuring model
+y is read
+Loading model weights from /data/users2/washbee/speedrun/topofit/output/lh.2125.pt
+SurfNet
+
+
+
+
+
+model size: 6.542MB
+
+
+
+
+
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.21% free): 34359738368(total), 34089795584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+subj /data/users2/washbee/speedrun/topofit-data/297655 lh
+
+*********before with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+*********before model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.53% free): 34359738368(total), 32822460416 (free), 1537277952 (used)
+Max Memory occupied by tensors: 105039872
+Max Memory Cached: 111149056
+Current Memory occupied by tensors: 105039872
+Current Memory cached occupied by tensors: 111149056
+
+
+*********after model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+*********after with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/297655/surf/lh.white.topofit
+total seconds for one batch is 2.232733
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.21% free): 34359738368(total), 34089795584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - end training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+
+
+Loading model weigLoading model weights from /data/users2/washbee/speedrun/topofit/output/lh.2125.pt
+SurfNet
+
+
+
+
+
+model size: 6.542MB
+
+
+
+
+
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.18% free): 34359738368(total), 34079506432 (free), 280231936 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.58% free): 34359738368(total), 32840744960 (free), 1518993408 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.52% free): 34359738368(total), 32819773440 (free), 1539964928 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.52% free): 34359738368(total), 32819773440 (free), 1539964928 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+subj /data/users2/washbee/speedrun/topofit-data/298051 lh
+
+*********before with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.52% free): 34359738368(total), 32819773440 (free), 1539964928 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+*********before model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.48% free): 34359738368(total), 32807190528 (free), 1552547840 (used)
+Max Memory occupied by tensors: 105039872
+Max Memory Cached: 111149056
+Current Memory occupied by tensors: 105039872
+Current Memory cached occupied by tensors: 111149056
+
+del() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+*********after with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/299154/surf/lh.white.topofit
+total seconds for one batch is 2.118449
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.21% free): 34359738368(total), 34089795584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - end training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.38% free): 34359738368(total), 28649127936 (free), 5710610432 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+
+
+
+*********after model() 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.34% free): 34359738368(total), 28635693056 (free), 5724045312 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+*********after with torch…. 
+ 
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.34% free): 34359738368(total), 28635693056 (free), 5724045312 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/298455/surf/lh.white.topofit
+total seconds for one batch is 2.337684
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.18% free): 34359738368(total), 34079506432 (free), 280231936 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.58% free): 34359738368(total), 32840482816 (free), 1519255552 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.52% free): 34359738368(total), 32819511296 (free), 1540227072 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.52% free): 34359738368(total), 32819511296 (free), 1540227072 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - end training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (83.34% free): 34359738368(total), 28635693056 (free), 5724045312 (used)
+Max Memory occupied by tensors: 5954362880
+Max Memory Cached: 7434403840
+Current Memory occupied by tensors: 786483712
+Current Memory cached occupied by tensors: 4114612224
+
+
+
+

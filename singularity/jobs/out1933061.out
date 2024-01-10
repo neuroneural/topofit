@@ -1,0 +1,4850 @@
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 100307 100307
+pmdata 102513 102513
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 102008 102008
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 103111 103111
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 101915 101915
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 102311 102311
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 100206 100206
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 101107 101107
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 101410 101410
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 102816 102816
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 101309 101309
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 101006 101006
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 100610 100610
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 100408 100408
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 104820 104820
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 103515 103515
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 104416 104416
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 103818 103818
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+pmdata 103414 103414
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 105115 105115
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 105216 105216
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 105014 105014
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+pmdata 104012 104012
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 105923 105923
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 106016 106016
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 106319 106319
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 107422 107422
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 106521 106521
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 105620 105620
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 107018 107018
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 107725 107725
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 108121 108121
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 108222 108222
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 107321 107321
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 107220 107220
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 108828 108828
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 108525 108525
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 108323 108323
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 109123 109123
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 111413 111413
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 110007 110007
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 111312 111312
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 112112 112112
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 111716 111716
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 111009 111009
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 109830 109830
+pmdata 110411 110411
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 109325 109325
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+-------- freesurfer-linux-centos7_x86_64-dev-20221114-585f56b --------
+Setting up environment for FreeSurfer/FS-FAST (and FSL)
+FREESURFER_HOME   /data/users2/washbee/freesurfer
+FSFAST_HOME       /data/users2/washbee/freesurfer/fsfast
+FSF_OUTPUT_FORMAT nii.gz
+SUBJECTS_DIR      /data/users2/washbee/freesurfer/subjects
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 110613 110613
+MNI_DIR           /data/users2/washbee/freesurfer/mni
+pmdata 111514 111514
+args.avg after maniuplationargs.avg after maniuplation  /data/users2/washbee/speedrun/topofit-data/fsaverage/data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplationargs.avg after maniuplation
+args.avg after maniuplation    /data/users2/washbee/speedrun/topofit-data/fsaverage  /data/users2/washbee/speedrun/topofit-data/fsaverage   /data/users2/washbee/speedrun/topofit-data/fsaverage/data/users2/washbee/speedrun/topofit-data/fsaverage
+/data/users2/washbee/speedrun/topofit-data/fsaverage
+
+/data/users2/washbee/speedrun/topofit-data/fsaverage
+/data/users2/washbee/speedrun/topofit-data/fsaverage/data/users2/washbee/speedrun/topofit-data/fsaverage/data/users2/washbee/speedrun/topofit-data/fsaverage
+
+
+
+
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+args.avg after maniuplation /data/users2/washbee/speedrun/topofit-data/fsaverage
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104820 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104820/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104820/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104820
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104820/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104820/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104820/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 15758
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 59979, nSrcLost = 15758, nSrcMulti = 58943, MnSrcMultiHits = 1.76209
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101006 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101006/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101006/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101006
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101006/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101006/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101006/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 15256
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 59932, nSrcLost = 15256, nSrcMulti = 58717, MnSrcMultiHits = 1.76967
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103818 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103818/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103818/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103818
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103818/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103818/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103818/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 17174
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 60876, nSrcLost = 17174, nSrcMulti = 59933, MnSrcMultiHits = 1.71802
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101107 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101107/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101107/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101107
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101107/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101107/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101107/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 18309
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 64641, nSrcLost = 18309, nSrcMulti = 60175, MnSrcMultiHits = 1.64854
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103414 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103414/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103414/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103414
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103414/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103414/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103414/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 19543
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 67098, nSrcLost = 19543, nSrcMulti = 60471, MnSrcMultiHits = 1.59984
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102816 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102816/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102816/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102816
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102816/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102816/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102816/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22189
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 67645, nSrcLost = 22189, nSrcMulti = 62532, MnSrcMultiHits = 1.53836
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103515 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103515/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103515/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103515
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103515/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103515/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103515/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 21508
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 69322, nSrcLost = 21508, nSrcMulti = 61533, MnSrcMultiHits = 1.53609
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101915 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101915/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101915/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101915
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101915/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101915/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101915/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22135
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70193, nSrcLost = 22135, nSrcMulti = 61996, MnSrcMultiHits = 1.51057
+Saving target data
+
+dev
+
+
+setenv SUBJECTS_DIR /
+dev
+
+cd /data/users2/washbee/speedrun/topofit/singularity
+setenv SUBJECTS_DIR /
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100307 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100307/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100307/mri/norm.mgz 
+
+cd /data/users2/washbee/speedrun/topofit/singularity
+sysname  Linux
+hostname arctrdagn001
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102311 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102311/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102311/mri/norm.mgz 
+machine  x86_64
+
+user     washbee1
+sysname  Linux
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100307
+hostname arctrdagn001
+srcval     = (null)
+machine  x86_64
+srctype    = 
+user     washbee1
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102311
+trgval     = /data/users2/washbee/speedrun/topofit-data/100307/surf/lh.white.ico.surf
+srcval     = (null)
+trgtype    = 
+srctype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+srchemi    = lh
+trgval     = /data/users2/washbee/speedrun/topofit-data/102311/surf/lh.white.ico.surf
+trghemi    = lh
+trgtype    = 
+frame      = 0
+srcsurfreg = sphere.reg
+fwhm-in    = 0
+trgsurfreg = sphere.reg
+fwhm-out   = 0
+srchemi    = lh
+label-src  = (null)
+trghemi    = lh
+label-trg  = (null)
+frame      = 0
+OKToRevFaceOrder  = 1
+fwhm-in    = 0
+UseDualHemi = 0
+fwhm-out   = 0
+label-src  = (null)
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100307/surf/lh.sphere.reg
+label-trg  = (null)
+Loading source data
+OKToRevFaceOrder  = 1
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100307/surf/lh.white
+UseDualHemi = 0
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102311/surf/lh.sphere.reg
+Done
+Loading source data
+Using surf2surf_nnfr()
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102311/surf/lh.white
+Mapping Source Volume onto Source Subject Surface
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+surf2surf_nnfr: building source hash (res=16).
+Done
+Surf2Surf: Forward Loop (163842)
+Using surf2surf_nnfr()
+
+Mapping Source Volume onto Source Subject Surface
+Surf2Surf: Dividing by number of hits (163842)
+surf2surf_nnfr: building source hash (res=16).
+INFO: nSrcLost = 20900
+Surf2Surf: Forward Loop (163842)
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+
+nSrc121 = 70017, nSrcLost = 20900, nSrcMulti = 60862, MnSrcMultiHits = 1.5416
+Surf2Surf: Dividing by number of hits (163842)
+Saving target data
+INFO: nSrcLost = 25373
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 73673, nSrcLost = 25373, nSrcMulti = 63176, MnSrcMultiHits = 1.42727
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111312 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111312/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111312/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111312
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111312/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111312/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111312/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 16981
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 63821, nSrcLost = 16981, nSrcMulti = 59070, MnSrcMultiHits = 1.69326
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111716 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111716/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111716/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111716
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111716/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111716/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111716/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 21549
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 71349, nSrcLost = 21549, nSrcMulti = 60988, MnSrcMultiHits = 1.51658
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105115 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105115/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105115/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105115
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105115/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105115/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105115/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 23249
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 75220, nSrcLost = 23249, nSrcMulti = 61896, MnSrcMultiHits = 1.43179
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104416 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104416/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104416/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104416
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104416/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104416/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104416/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24444
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 77408, nSrcLost = 24444, nSrcMulti = 61647, MnSrcMultiHits = 1.40208
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104012 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104012/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104012/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104012
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104012/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104012/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104012/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22311
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 71956, nSrcLost = 22311, nSrcMulti = 61286, MnSrcMultiHits = 1.4993
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105014 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105014/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105014/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105014
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105014/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105014/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105014/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26175
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 78200, nSrcLost = 26175, nSrcMulti = 63283, MnSrcMultiHits = 1.35332
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/112112 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/112112/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/112112/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/112112
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/112112/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/112112/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/112112/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 27568
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 80401, nSrcLost = 27568, nSrcMulti = 63812, MnSrcMultiHits = 1.30761
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111413 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111413/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111413/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111413
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111413/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111413/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111413/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 23501
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 73662, nSrcLost = 23501, nSrcMulti = 61965, MnSrcMultiHits = 1.45534
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100408 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100408/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100408/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100408
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100408/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100408/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100408/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 29080
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 82458, nSrcLost = 29080, nSrcMulti = 64520, MnSrcMultiHits = 1.26138
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107018 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107018/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107018/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107018
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107018/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107018/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107018/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 20671
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 66470, nSrcLost = 20671, nSrcMulti = 61772, MnSrcMultiHits = 1.57631
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102008 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102008/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102008/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102008
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102008/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102008/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102008/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 33835
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 85199, nSrcLost = 33835, nSrcMulti = 67585, MnSrcMultiHits = 1.16362
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101309 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101309/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101309/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101309
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101309/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101309/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101309/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 31544
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 83326, nSrcLost = 31544, nSrcMulti = 65834, MnSrcMultiHits = 1.22302
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103111 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103111/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103111/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103111
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103111/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103111/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103111/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 33509
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 87394, nSrcLost = 33509, nSrcMulti = 66545, MnSrcMultiHits = 1.14882
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106016 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106016/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106016/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106016
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106016/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106016/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106016/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24392
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 74653, nSrcLost = 24392, nSrcMulti = 62006, MnSrcMultiHits = 1.43839
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100610 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100610/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100610/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100610
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100610/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100610/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100610/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 31605
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 86434, nSrcLost = 31605, nSrcMulti = 65366, MnSrcMultiHits = 1.18422
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105620 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105620/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105620/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105620
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105620/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105620/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105620/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26728
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 78245, nSrcLost = 26728, nSrcMulti = 63520, MnSrcMultiHits = 1.34756
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106319 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106319/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106319/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106319
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106319/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106319/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106319/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25936
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 77069, nSrcLost = 25936, nSrcMulti = 63421, MnSrcMultiHits = 1.36821
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102513 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102513/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102513/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102513
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102513/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102513/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102513/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 39821
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 91549, nSrcLost = 39821, nSrcMulti = 71156, MnSrcMultiHits = 1.01598
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108121 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108121/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108121/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108121
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108121/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108121/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108121/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 11465
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 50490, nSrcLost = 11465, nSrcMulti = 57214, MnSrcMultiHits = 1.98119
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110007 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110007/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110007/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110007
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110007/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110007/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110007/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 17301
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 60621, nSrcLost = 17301, nSrcMulti = 59876, MnSrcMultiHits = 1.72391
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105923 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105923/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105923/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105923
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105923/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105923/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105923/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 30735
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 80636, nSrcLost = 30735, nSrcMulti = 65955, MnSrcMultiHits = 1.26156
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108525 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108525/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108525/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108525
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108525/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108525/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108525/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 19055
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 68903, nSrcLost = 19055, nSrcMulti = 60008, MnSrcMultiHits = 1.58211
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111009 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111009/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111009/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111009
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111009/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111009/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111009/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 31265
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84767, nSrcLost = 31265, nSrcMulti = 65304, MnSrcMultiHits = 1.21088
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109830 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109830/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109830/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109830
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109830/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109830/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109830/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 16164
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 58254, nSrcLost = 16164, nSrcMulti = 59505, MnSrcMultiHits = 1.77444
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111514 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111514/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111514/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111514
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111514/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111514/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111514/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 30891
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 82900, nSrcLost = 30891, nSrcMulti = 65658, MnSrcMultiHits = 1.23278
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101410 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101410/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101410/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101410
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101410/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101410/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101410/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 40524
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 92457, nSrcLost = 40524, nSrcMulti = 71390, MnSrcMultiHits = 0.99993
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107321 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107321/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107321/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107321
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107321/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107321/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107321/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24394
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 75555, nSrcLost = 24394, nSrcMulti = 62036, MnSrcMultiHits = 1.42316
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107422 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107422/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107422/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107422
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107422/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107422/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107422/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 32768
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81366, nSrcLost = 32768, nSrcMulti = 68170, MnSrcMultiHits = 1.20986
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100206 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100206/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100206/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100206
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100206/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100206/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100206/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 42860
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 93879, nSrcLost = 42860, nSrcMulti = 72858, MnSrcMultiHits = 0.960265
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106521 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106521/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106521/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106521
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106521/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106521/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106521/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 34083
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 87190, nSrcLost = 34083, nSrcMulti = 67018, MnSrcMultiHits = 1.14375
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105216 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105216/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105216/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105216
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105216/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105216/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105216/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 40037
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 99009, nSrcLost = 40037, nSrcMulti = 68835, MnSrcMultiHits = 0.941861
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108828 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108828/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108828/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108828
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108828/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108828/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108828/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 28418
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81810, nSrcLost = 28418, nSrcMulti = 63810, MnSrcMultiHits = 1.28557
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109123 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109123/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109123/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109123
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109123/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109123/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109123/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 27931
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81401, nSrcLost = 27931, nSrcMulti = 63505, MnSrcMultiHits = 1.29818
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107725 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107725/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107725/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107725
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107725/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107725/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107725/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 21213
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70365, nSrcLost = 21213, nSrcMulti = 60906, MnSrcMultiHits = 1.53477
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110411 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110411/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110411/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110411
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110411/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110411/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110411/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25300
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 76115, nSrcLost = 25300, nSrcMulti = 62999, MnSrcMultiHits = 1.39251
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107220 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107220/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107220/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107220
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107220/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107220/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107220/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25480
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 78960, nSrcLost = 25480, nSrcMulti = 62528, MnSrcMultiHits = 1.3575
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109325 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109325/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109325/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109325
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109325/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109325/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109325/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 29530
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81951, nSrcLost = 29530, nSrcMulti = 65500, MnSrcMultiHits = 1.25024
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108323 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108323/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108323/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108323
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108323/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108323/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108323/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 21256
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70338, nSrcLost = 21256, nSrcMulti = 61007, MnSrcMultiHits = 1.53268
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110613 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110613/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110613/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110613
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110613/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110613/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110613/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 34435
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 89699, nSrcLost = 34435, nSrcMulti = 66812, MnSrcMultiHits = 1.10973
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108222 --hemi lh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108222/surf/lh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108222/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108222
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108222/surf/lh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = lh
+trghemi    = lh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108222/surf/lh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108222/surf/lh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/lh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 33218
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84075, nSrcLost = 33218, nSrcMulti = 67331, MnSrcMultiHits = 1.1847
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111312 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111312/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111312/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111312
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111312/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111312/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111312/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 16583
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 63519, nSrcLost = 16583, nSrcMulti = 58661, MnSrcMultiHits = 1.71022
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111716 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111716/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111716/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111716
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111716/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111716/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111716/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 21638
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 71850, nSrcLost = 21638, nSrcMulti = 60809, MnSrcMultiHits = 1.5128
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104820 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104820/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104820/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104820
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104820/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104820/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104820/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 17213
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 60971, nSrcLost = 17213, nSrcMulti = 59451, MnSrcMultiHits = 1.73035
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101006 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101006/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101006/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101006
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101006/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101006/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101006/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 14993
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 59934, nSrcLost = 14993, nSrcMulti = 58236, MnSrcMultiHits = 1.78426
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103818 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103818/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103818/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103818
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103818/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103818/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103818/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 18236
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 61691, nSrcLost = 18236, nSrcMulti = 60514, MnSrcMultiHits = 1.68806
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111413 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111413/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111413/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111413
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111413/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111413/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111413/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24584
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 74372, nSrcLost = 24584, nSrcMulti = 62729, MnSrcMultiHits = 1.42629
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/112112 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/112112/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/112112/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/112112
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/112112/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/112112/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/112112/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 28380
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81368, nSrcLost = 28380, nSrcMulti = 64055, MnSrcMultiHits = 1.28755
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101107 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101107/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101107/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101107
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101107/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101107/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101107/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 19044
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 67827, nSrcLost = 19044, nSrcMulti = 59763, MnSrcMultiHits = 1.6066
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103414 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103414/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103414/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103414
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103414/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103414/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103414/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 20018
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 66595, nSrcLost = 20018, nSrcMulti = 60826, MnSrcMultiHits = 1.59877
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102816 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102816/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102816/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102816
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102816/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102816/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102816/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22079
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70026, nSrcLost = 22079, nSrcMulti = 61791, MnSrcMultiHits = 1.51828
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100307 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100307/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100307/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100307
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100307/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100307/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100307/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 20417
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 67549, nSrcLost = 20417, nSrcMulti = 60797, MnSrcMultiHits = 1.58384
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101915 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101915/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101915/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101915
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101915/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101915/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101915/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22590
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70810, nSrcLost = 22590, nSrcMulti = 61913, MnSrcMultiHits = 1.50262
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103515 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103515/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103515/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103515
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103515/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103515/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103515/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 23894
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 72077, nSrcLost = 23894, nSrcMulti = 62532, MnSrcMultiHits = 1.46749
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102311 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102311/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102311/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102311
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102311/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102311/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102311/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26081
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 75793, nSrcLost = 26081, nSrcMulti = 63693, MnSrcMultiHits = 1.3824
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104012 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104012/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104012/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104012
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104012/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104012/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104012/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25537
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 73392, nSrcLost = 25537, nSrcMulti = 63504, MnSrcMultiHits = 1.42432
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111514 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111514/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111514/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111514
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111514/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111514/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111514/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 29789
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 80764, nSrcLost = 29789, nSrcMulti = 65385, MnSrcMultiHits = 1.2706
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/104416 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/104416/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/104416/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/104416
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/104416/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/104416/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/104416/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25581
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 76716, nSrcLost = 25581, nSrcMulti = 62749, MnSrcMultiHits = 1.38848
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/111009 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/111009/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/111009/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/111009
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/111009/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/111009/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/111009/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 31098
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84873, nSrcLost = 31098, nSrcMulti = 65298, MnSrcMultiHits = 1.20936
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105115 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105115/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105115/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105115
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105115/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105115/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105115/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25771
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 75719, nSrcLost = 25771, nSrcMulti = 63295, MnSrcMultiHits = 1.39226
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105014 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105014/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105014/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105014
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105014/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105014/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105014/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26406
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 78394, nSrcLost = 26406, nSrcMulti = 63010, MnSrcMultiHits = 1.3561
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107018 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107018/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107018/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107018
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107018/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107018/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107018/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 20060
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 66000, nSrcLost = 20060, nSrcMulti = 60710, MnSrcMultiHits = 1.61163
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109830 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109830/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109830/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109830
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109830/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109830/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109830/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 15817
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 60367, nSrcLost = 15817, nSrcMulti = 58505, MnSrcMultiHits = 1.76865
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110007 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110007/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110007/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110007
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110007/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110007/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110007/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 17200
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 63240, nSrcLost = 17200, nSrcMulti = 59040, MnSrcMultiHits = 1.70396
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105620 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105620/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105620/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105620
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105620/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105620/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105620/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 28724
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81265, nSrcLost = 28724, nSrcMulti = 64300, MnSrcMultiHits = 1.28425
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108121 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108121/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108121/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108121
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108121/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108121/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108121/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 12542
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 51951, nSrcLost = 12542, nSrcMulti = 57557, MnSrcMultiHits = 1.944
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106016 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106016/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106016/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106016
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106016/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106016/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106016/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 25197
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 74337, nSrcLost = 25197, nSrcMulti = 62882, MnSrcMultiHits = 1.42338
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108525 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108525/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108525/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108525
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108525/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108525/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108525/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 18832
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 69271, nSrcLost = 18832, nSrcMulti = 59233, MnSrcMultiHits = 1.59659
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102008 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102008/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102008/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102008
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102008/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102008/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102008/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 34559
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 85377, nSrcLost = 34559, nSrcMulti = 68481, MnSrcMultiHits = 1.14579
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100408 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100408/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100408/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100408
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100408/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100408/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100408/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+dev
+
+
+Surf2Surf: Dividing by number of hits (163842)
+setenv SUBJECTS_DIR /
+INFO: nSrcLost = 31461
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84171, nSrcLost = 31461, nSrcMulti = 65759, MnSrcMultiHits = 1.21156
+Saving target data
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101309 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101309/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101309/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101309
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101309/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101309/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101309/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 32589
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 86142, nSrcLost = 32589, nSrcMulti = 65868, MnSrcMultiHits = 1.17963
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/103111 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/103111/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/103111/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/103111
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/103111/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/103111/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/103111/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 34608
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 89141, nSrcLost = 34608, nSrcMulti = 67134, MnSrcMultiHits = 1.11271
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106319 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106319/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106319/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106319
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106319/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106319/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106319/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24748
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 76191, nSrcLost = 24748, nSrcMulti = 62270, MnSrcMultiHits = 1.4076
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100610 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100610/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100610/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100610
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100610/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100610/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100610/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 32651
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84879, nSrcLost = 32651, nSrcMulti = 66751, MnSrcMultiHits = 1.18295
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107321 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107321/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107321/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107321
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107321/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107321/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107321/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 24994
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 76276, nSrcLost = 24994, nSrcMulti = 62418, MnSrcMultiHits = 1.4029
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/102513 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/102513/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/102513/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/102513
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/102513/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/102513/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/102513/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 37760
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 93527, nSrcLost = 37760, nSrcMulti = 68465, MnSrcMultiHits = 1.02702
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105923 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105923/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105923/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105923
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105923/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105923/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105923/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 28859
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 82525, nSrcLost = 28859, nSrcMulti = 63762, MnSrcMultiHits = 1.27532
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107422 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107422/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107422/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107422
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107422/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107422/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107422/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 31494
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 82803, nSrcLost = 31494, nSrcMulti = 66373, MnSrcMultiHits = 1.22096
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110411 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110411/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110411/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110411
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110411/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110411/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110411/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26070
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 77625, nSrcLost = 26070, nSrcMulti = 63099, MnSrcMultiHits = 1.36638
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/101410 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/101410/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/101410/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/101410
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/101410/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/101410/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/101410/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 43459
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 94119, nSrcLost = 43459, nSrcMulti = 73773, MnSrcMultiHits = 0.945102
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108828 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108828/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108828/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108828
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108828/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108828/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108828/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 29024
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81729, nSrcLost = 29024, nSrcMulti = 64424, MnSrcMultiHits = 1.27457
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109123 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109123/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109123/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109123
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109123/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109123/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109123/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 29466
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 84142, nSrcLost = 29466, nSrcMulti = 63968, MnSrcMultiHits = 1.24594
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/105216 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/105216/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/105216/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/105216
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/105216/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/105216/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/105216/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 39769
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 97711, nSrcLost = 39769, nSrcMulti = 69042, MnSrcMultiHits = 0.957837
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/100206 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/100206/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/100206/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/100206
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/100206/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/100206/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/100206/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 44000
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 96505, nSrcLost = 44000, nSrcMulti = 73121, MnSrcMultiHits = 0.920898
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/106521 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/106521/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/106521/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/106521
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/106521/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/106521/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/106521/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 38858
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 88290, nSrcLost = 38858, nSrcMulti = 71716, MnSrcMultiHits = 1.05349
+Saving target data
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107220 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107220/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107220/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107220
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107220/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107220/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107220/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 26945
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 81984, nSrcLost = 26945, nSrcMulti = 62660, MnSrcMultiHits = 1.30638
+Saving target data
+
+TopoFit preprocessing complete!
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/109325 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/109325/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/109325/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/109325
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/109325/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/109325/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/109325/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 28069
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 85088, nSrcLost = 28069, nSrcMulti = 62784, MnSrcMultiHits = 1.25436
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/107725 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/107725/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/107725/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/107725
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/107725/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/107725/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/107725/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22266
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 72494, nSrcLost = 22266, nSrcMulti = 61055, MnSrcMultiHits = 1.49616
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/110613 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/110613/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/110613/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/110613
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/110613/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/110613/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/110613/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 37483
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 88564, nSrcLost = 37483, nSrcMulti = 69504, MnSrcMultiHits = 1.08307
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108323 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108323/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108323/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108323
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108323/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108323/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108323/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 22544
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 70059, nSrcLost = 22544, nSrcMulti = 61847, MnSrcMultiHits = 1.51637
+Saving target data
+
+TopoFit preprocessing complete!
+
+dev
+
+setenv SUBJECTS_DIR /
+cd /data/users2/washbee/speedrun/topofit/singularity
+mri_surf2surf --mapmethod nnf --s /data/users2/washbee/speedrun/topofit-data/108222 --hemi rh --sval-xyz white --trgsubject /data/users2/washbee/speedrun/topofit-data/fsaverage --tval /data/users2/washbee/speedrun/topofit-data/108222/surf/rh.white.ico.surf --tval-xyz /data/users2/washbee/speedrun/topofit-data/108222/mri/norm.mgz 
+
+sysname  Linux
+hostname arctrdagn001
+machine  x86_64
+user     washbee1
+srcsubject = /data/users2/washbee/speedrun/topofit-data/108222
+srcval     = (null)
+srctype    = 
+trgsubject = /data/users2/washbee/speedrun/topofit-data/fsaverage
+trgval     = /data/users2/washbee/speedrun/topofit-data/108222/surf/rh.white.ico.surf
+trgtype    = 
+srcsurfreg = sphere.reg
+trgsurfreg = sphere.reg
+srchemi    = rh
+trghemi    = rh
+frame      = 0
+fwhm-in    = 0
+fwhm-out   = 0
+label-src  = (null)
+label-trg  = (null)
+OKToRevFaceOrder  = 1
+UseDualHemi = 0
+Reading source surface reg ///data/users2/washbee/speedrun/topofit-data/108222/surf/rh.sphere.reg
+Loading source data
+Reading surface file ///data/users2/washbee/speedrun/topofit-data/108222/surf/rh.white
+Reading target surface reg ///data/users2/washbee/speedrun/topofit-data/fsaverage/surf/rh.sphere.reg
+Done
+Using surf2surf_nnfr()
+Mapping Source Volume onto Source Subject Surface
+surf2surf_nnfr: building source hash (res=16).
+Surf2Surf: Forward Loop (163842)
+
+Surf2Surf: Dividing by number of hits (163842)
+INFO: nSrcLost = 34613
+nTrg121 = 163842, nTrgMulti =     0, MnTrgMultiHits = 0
+nSrc121 = 86025, nSrcLost = 34613, nSrcMulti = 68182, MnSrcMultiHits = 1.14131
+Saving target data
+
+TopoFit preprocessing complete!

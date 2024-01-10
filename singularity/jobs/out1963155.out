@@ -1,0 +1,12 @@
+Configuring model
+Configuring optimizer
+Setting learning rate to 1.00e-04
+Starting training at epoch 0 / 4000
+Epoch 1/4000 - 1.43 min - 0.86 sec/step - loss-dist: 2.9522 - loss-reg: 0.1050 - loss-total: 3.0047
+Epoch 2/4000 - 1.26 min - 0.75 sec/step - loss-dist: 2.0230 - loss-reg: 0.2590 - loss-total: 2.1525
+Epoch 3/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.7951 - loss-reg: 0.2285 - loss-total: 1.9094
+Epoch 4/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.6950 - loss-reg: 0.2148 - loss-total: 1.8024
+Epoch 5/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.5748 - loss-reg: 0.1971 - loss-total: 1.6733
+Epoch 6/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.4881 - loss-reg: 0.1954 - loss-total: 1.5858
+Epoch 7/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.4135 - loss-reg: 0.1875 - loss-total: 1.5073
+Epoch 8/4000 - 1.26 min - 0.75 sec/step - loss-dist: 1.3602 - loss-reg: 0.1812 - loss-total: 1.4508

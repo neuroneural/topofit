@@ -1,0 +1,14 @@
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:394: FutureWarning: torch.cuda.max_memory_cached has been renamed to torch.cuda.max_memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)
+Traceback (most recent call last):
+  File "/topofit/evaluate", line 162, in <module>
+    surf.save(filename)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/mesh/mesh.py", line 58, in save
+    save_mesh(self, filename, fmt=fmt)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/io/mesh.py", line 65, in save_mesh
+    iop().save(mesh, filename)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/io/mesh.py", line 188, in save
+    with open(filename, 'wb') as file:
+FileNotFoundError: [Errno 2] No such file or directory: 'None/201818.lh.white.topofit'

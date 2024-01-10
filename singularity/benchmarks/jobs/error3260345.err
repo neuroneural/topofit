@@ -1,0 +1,22 @@
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:394: FutureWarning: torch.cuda.max_memory_cached has been renamed to torch.cuda.max_memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)
+Traceback (most recent call last):
+  File "/topofit/bm.evaluate", line 109, in <module>
+    msgs = printSpaceUsage()
+  File "/topofit/bm.evaluate", line 55, in printSpaceUsage
+    handle = nvidia_smi.nvmlDeviceGetHandleByIndex(i)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/pynvml.py", line 807, in nvmlDeviceGetHandleByIndex
+    _nvmlCheckReturn(ret)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/pynvml.py", line 310, in _nvmlCheckReturn
+    raise NVMLError(ret)
+pynvml.NVMLError_Uninitialized: Uninitialized
+reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:394: FutureWarning: torch.cuda.max_memory_cached has been renamed to torch.cuda.max_memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)

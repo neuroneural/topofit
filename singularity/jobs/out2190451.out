@@ -1,0 +1,4 @@
+Configuring model
+Loading model weights from /data/users2/washbee/speedrun/topofit/output/lh.2125.pt
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/201818/surf/lh.white.topofit
+total seconds for one batch is 10.056671

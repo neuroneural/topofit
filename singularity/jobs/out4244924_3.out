@@ -1,0 +1,5 @@
+array is read
+Configuring model
+Loading model weights from /data/users2/washbee/speedrun/topofit/output2/lh.2175.pt
+subj /data/users2/washbee/speedrun/topofit-data/200311 lh
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/200311/surf/lh.white.topofit

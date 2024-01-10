@@ -1,0 +1,16 @@
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:394: FutureWarning: torch.cuda.max_memory_cached has been renamed to torch.cuda.max_memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)
+Traceback (most recent call last):
+  File "/topofit/bm.evaluate", line 148, in <module>
+    data = topofit.io.load_subject_data(subj, args.hemi)
+  File "/topofit/topofit/io.py", line 21, in load_subject_data
+    image = sf.load_volume(f'{subj}/mri/norm.mgz')
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/io/framed.py", line 38, in load_volume
+    return load_framed_array(filename=filename, atype=Volume, fmt=fmt)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/io/framed.py", line 100, in load_framed_array
+    check_file_readability(filename)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/surfa/io/utils.py", line 17, in check_file_readability
+    raise FileNotFoundError(f'{filename} is not a file')
+FileNotFoundError: /data/users2/washbee/speedrun/topofit-data//mri/norm.mgz is not a file

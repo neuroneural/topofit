@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/topofit/evaluate", line 52, in <module>
+    weights = torch.load(args.model, map_location=device)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/serialization.py", line 699, in load
+    with _open_file_like(f, 'rb') as opened_file:
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/serialization.py", line 231, in _open_file_like
+    return _open_file(name_or_buffer, mode)
+  File "/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/serialization.py", line 212, in __init__
+    super(_open_file, self).__init__(open(name, mode))
+FileNotFoundError: [Errno 2] No such file or directory: '/data/users2/washbee/speedrun/topofit/lh.2125.pt'

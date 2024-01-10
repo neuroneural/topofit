@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/topofit/train", line 144, in <module>
+    distance_loss = model.guided_chamfer_loss(true_white, pred_white)
+  File "/topofit/topofit/model.py", line 399, in guided_chamfer_loss
+    self.neighborhood = torch.from_numpy(ico.neighborhood(order)).to(utils.get_device())
+  File "/topofit/topofit/ico.py", line 53, in neighborhood
+    raise RuntimeError(f'{filename} cannot be located - make sure it downloaded per instructions in the readme')
+RuntimeError: /topofit/topofit/neighborhoods.npz cannot be located - make sure it downloaded per instructions in the readme

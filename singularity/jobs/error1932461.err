@@ -1,0 +1,1 @@
+FATAL:   could not open image /data/users2/washbee/containers/topofitV1_release.sif: failed to retrieve path for /data/users2/washbee/containers/topofitV1_release.sif: lstat /data/users2/washbee/containers/topofitV1_release.sif: no such file or directory

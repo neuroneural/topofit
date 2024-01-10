@@ -1,0 +1,5 @@
+/topofit/singularity/benchmarks/bm.evaluatelh.sh: line 8: filename: command not found
+/topofit/singularity/benchmarks/bm.evaluatelh.sh: line 17: $filename: ambiguous redirect
+usage: bm.evaluate [-h] --subjs SUBJS [SUBJS ...] --hemi HEMI --model MODEL
+                   [--suffix SUFFIX] [--gpu GPU] [--cpu] [--outdir OUTDIR]
+bm.evaluate: error: argument --subjs: expected at least one argument

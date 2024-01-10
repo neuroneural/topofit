@@ -1,0 +1,104 @@
+/topofit-data/201818
+array is read
+ls  CortexODE_fork
+DeepCSR-fork
+PialNN_fork
+Vox2Cortex_fork
+bm.events.csv
+bm.events.memory.csv
+bm.loading.csv
+bm.loading.memory.csv
+bmtiming
+cortexode-data-rp
+corticalflow_fork
+deepcsr-data
+deepcsr-preprocessed
+deepcsr-preprocessed2
+events.csv
+events.csv.bak.71
+events.csv.bak.will
+events.csv.cortexodefinished
+hcp-plis-subj-pialnn-201818
+hcp-plis-subj-pialnn-rp
+outputdirs
+paperTest.txt
+pialnn_trainvalbak
+subjs.csv
+topofit
+topofit-data
+topofit_fork
+v2c-data
+
+Configuring model
+Loading model weights from /data/users2/washbee/speedrun/topofit/bmoutput/lh.2125.pt
+SurfNet
+
+
+
+
+
+model size: 6.542MB
+
+
+
+
+
+0 - configure model
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (97.82% free): 11811160064(total), 11553800192 (free), 257359872 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (88.76% free): 11811160064(total), 10483335168 (free), 1327824896 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (88.58% free): 11811160064(total), 10462363648 (free), 1348796416 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (88.58% free): 11811160064(total), 10462363648 (free), 1348796416 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+subj /topofit-data/201818 lh
+
+*********before with torch…. 
+ 
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (88.58% free): 11811160064(total), 10462363648 (free), 1348796416 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+*********before model() 
+ 
+Device 0: b'NVIDIA GeForce RTX 2080 Ti', Memory : (88.47% free): 11811160064(total), 10449780736 (free), 1361379328 (used)
+Max Memory occupied by tensors: 105039872
+Max Memory Cached: 111149056
+Current Memory occupied by tensors: 105039872
+Current Memory cached occupied by tensors: 111149056
+

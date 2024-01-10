@@ -1,0 +1,6 @@
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:394: FutureWarning: torch.cuda.max_memory_cached has been renamed to torch.cuda.max_memory_reserved
+  FutureWarning)
+/opt/miniconda3/envs/topofit/lib/python3.7/site-packages/torch/cuda/memory.py:386: FutureWarning: torch.cuda.memory_cached has been renamed to torch.cuda.memory_reserved
+  FutureWarning)
+slurmstepd: error: *** JOB 3286375 ON arctrdagn014 CANCELLED AT 2023-07-06T23:08:21 ***
+slurmstepd: error: *** JOB 3286376 ON arctrdagn010 CANCELLED AT 2023-07-06T23:08:21 ***

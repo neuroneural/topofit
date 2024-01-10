@@ -1,0 +1,57 @@
+Configuring model
+Loading model weights from /data/users2/washbee/speedrun/topofit/output/lh.2125.pt
+SurfNet
+
+
+
+
+
+model size: 6.542MB
+
+
+
+
+
+0 - configure model
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (99.21% free): 34359738368(total), 34089795584 (free), 269942784 (used)
+Max Memory occupied by tensors: 0
+Max Memory Cached: 0
+Current Memory occupied by tensors: 0
+Current Memory cached occupied by tensors: 0
+
+
+
+
+0 - initialize model weights
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.62% free): 34359738368(total), 32856014848 (free), 1503723520 (used)
+Max Memory occupied by tensors: 73771008
+Max Memory Cached: 77594624
+Current Memory occupied by tensors: 73771008
+Current Memory cached occupied by tensors: 77594624
+
+
+
+
+0 - enable evaluation mode
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+0 - start training loop
+Device 0: b'Tesla V100-SXM2-32GB', Memory : (95.56% free): 34359738368(total), 32835043328 (free), 1524695040 (used)
+Max Memory occupied by tensors: 94422528
+Max Memory Cached: 98566144
+Current Memory occupied by tensors: 94422528
+Current Memory cached occupied by tensors: 98566144
+
+
+
+
+subj /data/users2/washbee/speedrun/topofit-data/201818 lh
+Saved white-matter surface to /data/users2/washbee/speedrun/topofit-data/201818/surf/lh.white.topofit
+total seconds for one batch is 3.820229
